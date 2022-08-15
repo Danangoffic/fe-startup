@@ -1,4 +1,4 @@
-# startup-frontend
+# startup-frontend (VUE-NUXT)
 
 ## Build Setup
 
